@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I am Prakhar</h1>
 <h3 align="center">A Computer Science Student at FMU</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=user&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
-
+<!--
+	<p align="left"> <img src="https://komarev.com/ghpvc/?username=user&label=Profile%20views&color=0e75b6&style=flat" alt="user" /> </p>
+-->
 - 🌱 I’m currently learning **Unity and AI**
 
 - 📫 How to reach me **rampalliprakhar@gmail.com**
