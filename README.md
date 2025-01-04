@@ -9,5 +9,5 @@ I'm a **Computer Science student** with a passion for **software development**, 
 
 ## 📫 Reach Out
 - ✉️ Email: [rampalliprakhar@gmail.com](mailto:rampalliprakhar@gmail.com)
-Feel free to connect with me on LinkedIn:
+- Feel free to connect with me on LinkedIn:
 - 🌍 [LinkedIn: Prakhar Rampalli](https://www.linkedin.com/in/prakhar-rampalli/)
