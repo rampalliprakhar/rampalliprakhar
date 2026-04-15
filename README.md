@@ -1,49 +1,90 @@
-<h1 align="center">👋 Hello, I am Prakhar Rampalli</h1>
-<h3 align="center">Software Engineer | AI & Full-Stack Dev | Real-Time Systems</h3>
+<h1 align="center">Prakhar Rampalli</h1>
+<h3 align="center">Backend Engineer | Distributed Systems & Data Infrastructure</h3>
 
 ---
 
-## About Me
+## About
 
-I am a recent Computer Science graduate from Francis Marion University, passionate about building real-time, AI-driven, and scalable full-stack applications.
+Backend engineer focused on building distributed systems, data infrastructure, and AI-powered retrieval systems.
 
-My experience spans across:
-- Web App Development: Next.js · Supabase · WebSockets · React · TypeScript
-- AI & NLP: LLaMA 3.2 · Undertone STT · Overtone TTS
-- Game/VR Development: Unity · C#
-- Cloud Tools: Google Cloud · Vercel · Render
+I design and build ingestion pipelines, semantic search systems, and scalable backend services using Go, Python, and PostgreSQL. My work includes indexing tens of millions of documents, building fault-tolerant pipelines, and developing RAG systems for real-world applications.
 
-I enjoy creating projects that are interactive, performance-focused, and solve real-world problems.
+Interested in solving problems involving large-scale data, system reliability, and performance.
+
+---
+
+## Impact
+
+- Indexed **36M+ biomedical documents** for semantic search using FAISS
+- Built ingestion pipelines processing **7,000+ healthcare policy documents**
+- Reduced manual workflows by **40% through automation**
+- Developed production backend systems with **multi-tenant architecture and RBAC**
 
 ---
 
 ## Featured Projects
 
-###  [VR Mock Interview Simulator](https://vrmi.vercel.app)  
-- Built in Unity + LLaMA 3.2 + STT/TTS | Real-time mock interviews with AI avatars
+### PubMed RAG (Large-Scale Semantic Retrieval)
+**Go · FastAPI · FAISS IVFPQ · BGE Embeddings · PostgreSQL · Docker**
 
-### [Live Whiteboard Collaboration Tool](https://whiteboard-two-gilt.vercel.app)  
-- Real-time tutoring whiteboard with WebSocket sync and drawing tools  
-- [GitHub Repo](https://github.com/rampalliprakhar/whiteboard)
-
-### [Live Location Tracker](https://live-tracker-06hi.onrender.com)  
-- Track 20+ users on a Leaflet.js map with Socket.IO updates  
-- [GitHub Repo](https://github.com/rampalliprakhar/Live-Tracker)
+- Built semantic retrieval system indexing **36M PubMed abstracts**
+- Designed distributed ingestion pipeline with batching, checkpointing, and failure recovery
+- Achieved **sub-second query latency** using FAISS IVFPQ indexing
+- Developed RAG system using local LLM (Mistral-7B) for domain-specific question answering
 
 ---
 
-## What I am Interested In
-- Full-stack & backend development  
-- AI-powered tools and assistants  
-- Real-time collaboration platforms  
-- VR interaction systems  
-- Scalable system design and optimization
+### PolicyHealthAI (Healthcare Data Platform)
+**Go · PostgreSQL · pgvector · MinIO · OpenAI**
+
+- Built backend systems processing **7,000+ healthcare policy documents**
+- Implemented embedding-based semantic search using pgvector
+- Designed ingestion and retrieval pipelines optimized for scalability and reliability
+- Integrated object storage and LLM pipelines for intelligent document workflows
 
 ---
 
-## Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/prakhar-rampalli/)
-- Email: [rampalliprakhar@gmail.com](mailto:rampalliprakhar@gmail.com)
+### VR Mock Interview (Real-Time AI System)
+**Unity · C# · STT/TTS · LLM Integration**
+
+- Built real-time VR interview simulator with AI-driven dialogue
+- Engineered voice pipeline achieving **sub-9 second latency**
+- Designed modular system for transcripts, analytics, and interaction orchestration
 
 ---
-Thanks for visiting! I am always open to collaboration, internships, and new challenges.
+
+## Core Stack
+
+**Backend & Data:**
+Go · Python · PostgreSQL · FAISS · pgvector · FastAPI
+
+**Systems & Infrastructure:**
+Distributed Systems · Data Pipelines · RAG · Docker
+
+**Additional:**
+TypeScript · React · Next.js · WebSockets
+
+---
+
+## What I’m Looking For
+
+I’m seeking backend, infrastructure, or data engineering roles where I can:
+
+- Design and build scalable systems
+- Work on data platforms and distributed architectures
+- Solve performance, reliability, and system design challenges
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/prakhar-rampalli/
+- Email: rampalliprakhar@gmail.com
+- Portfolio: https://prakhar-portfolio-ysrj.vercel.app/
+
+---
+
+## Notes
+
+Most of my work focuses on backend systems, data pipelines, and AI-driven retrieval.  
+Always open to discussions around distributed systems, RAG, and large-scale data problems.
